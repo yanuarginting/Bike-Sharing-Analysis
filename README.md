@@ -12,3 +12,5 @@ pip install matplotlib numpy pandas streamlit
 streamlit run app.py
 ```
 
+## Access by link
+https://yanuargintingbikesharingdataset.streamlit.app/
