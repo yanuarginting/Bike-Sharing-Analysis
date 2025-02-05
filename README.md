@@ -1,6 +1,6 @@
 # Bike Sharing Dataset
 
-onducting analysis using bicycle sales dataset for the past 2 years byformulating
+Conducting analysis using bicycle sales dataset for the past 2 years byformulating
 several business questions that can be used to evaluate the company in the future.
 
 ## Setup environment
