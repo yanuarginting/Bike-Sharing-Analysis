@@ -1,4 +1,4 @@
-# Bike Sharing Dataset
+# Bike Sharing Analysis
 
 Conducting analysis using bicycle sales dataset for the past 2 years byformulating
 several business questions that can be used to evaluate the company in the future.
