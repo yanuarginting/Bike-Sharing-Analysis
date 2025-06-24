@@ -16,4 +16,4 @@ streamlit run app.py
 ```
 
 ## Access by link
-https://yanuargintingbikesharingdataset.streamlit.app/
+https://bike-sharing-analysis-by-yanuarginting.streamlit.app/
